@@ -45,6 +45,6 @@
 除额外声明外，本站博文均使用[CC BY-SA 4.0 International License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/)授权。
 
 
-## 帮助这个项目
+## 帮助憨憨
 
-如果觉得有帮助的话，希望能给我 and 原作者点一个☆！
+如果觉得博客内容有帮助的话，希望能给[我的仓库](https://github.com/funnyseaman/funnyseaman.github.io)点一个☆！
