@@ -1,46 +1,16 @@
-LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
+## 这里是FunnySeaman的私人博客
 
-这是一个可以发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
+因为以前的博客放在云服务器上很久没有维护，惨遭清空（实际上也没写什么哈哈哈哈）
 
-现在我将此文档和基础教程分开了，此文档用于说明LOFFER的现有功能和更新情况，**查看为无任何代码基础者写的教程[请点这里](https://fromendworld.github.io/LOFFER/document/)**
+所以重开一个博客，重新记录一个憨憨程序员的"快乐生活"
 
 ## 更新内容
 
-### 2019-07-25 V0.4.0
+### 2020-07-13 V1.0
 
-修订目录跳级会坏掉的问题，不算完美解决，但不会坏掉了。
+按照LOFFER的模板，成功建立了属于自己的博客
 
-增加对LaTeX渲染的支持，请见[这篇说明和示例](https://fromendworld.github.io/LOFFER/math-test/)。
-
-增加置顶功能，只要在一个post的YAML Front Matter（就是文章头部的这段信息）中加入` pinned: true `，这篇文章就可以置顶了。
-
-另外介绍一个给LOFFER更换主题颜色的手法。LOFFER用了一个开源的颜色表[Open Color](https://yeun.github.io/open-color/),该色表提供的可选颜色有：red, pink, grape, violet, indigo, blue, cyan, teal, green, lime, yellow。
-
-LOFFER的默认状态是teal，要更换主题颜色，只要打开文件` _sass/_variables.scss `，将文件中所有的teal全部替换成你想要的颜色。例如，查找teal，替换indigo，全部替换，commit，完成！
-
-
-### 2019-07-20 V0.3.0
-
-新版本增加目录功能，在post的信息中心加入` toc: true `，这篇博文就会显示目录了。
-
-这次没有对config的修改，因此应该可以通过[这个方法](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)，给自己提pull request来更新。
-
-目录基于[jekyll-toc by allejo](https://github.com/allejo/jekyll-toc)制作。
-
-目前我试用发现了一点小问题：如果你的标题级数不按套路变化，它就会搞不懂…… 
-
-` # 一级标题 `下面必须是` ## 二级标题 `，如果是` ### 三级标题 `它就人工智障了【手动扶额】
-
-注意：目前目录仅在桌面版显示。
-
-
-### 2019-06-30 V0.2.0
-
-新版本进一步优化了一下样式，并且支持了基于GitHub Issues的评论Gitalk（请看下文的配置说明）。
-
-如果你已经fork了LOFFER，想要更新到新版本的话，可以试试[这个方法](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)，或者你也可以干脆删掉重来，只要保留自己的大部分config设定和所有的post就好。
-
-LOFFER只是容器，你的posts才是博客的核心。
+然而今天下午Github就崩了一次，也不知道以后会不会再次转移
 
 ## 支持的功能
 
@@ -51,8 +21,8 @@ LOFFER只是容器，你的posts才是博客的核心。
     ---
     layout: post
     title: Markdown语法简介
-    date: 2013-07-16
-    Author: Shengbin 
+    date: YYYY-MM-DD
+    Author: xxx
     tags: [sample, markdown]
     comments: true
     toc: true
@@ -66,19 +36,15 @@ LOFFER只是容器，你的posts才是博客的核心。
 
 
 ## 致谢
+* [LOFFER使用基础教程](https://fromendworld.github.io/LOFFER/document/#%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) - 首先，感谢FromEndWorld提供的LOFFER模板，本站在此基础上进行的二次开发
+* [lemonchann's blog](https://lemonchann.github.io/create_blog_with_github_pages/) - 其次，感谢lemonchann编写的个人博客搭建教程，我深受启发
 
-* [Jekyll](https://github.com/jekyll/jekyll) - 这是本站存在的根基
-* [Kiko-now](<https://github.com/aweekj/kiko-now>) - 我首先是fork这个主题，然后再其上进行修改汉化，才有了LOFFER
-* [Font Awesome](<https://fontawesome.com/>) - 社交网络图标来自FontAwesome的免费开源内容
 
+## 版权声明
+
+除额外声明外，本站博文均使用[CC BY-SA 4.0 International License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/)授权。
 
 
 ## 帮助这个项目
 
-介绍更多人来使用它，摆脱lofter自由飞翔！
-
-欢迎Issues和Pull Requests。
-
-给我点一个☆吧！
-
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
+如果觉得有帮助的话，希望能给我 and 原作者点一个☆！
