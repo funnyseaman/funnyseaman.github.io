@@ -16,3 +16,7 @@ comments: true
 ~~所以，我都花时间搭建博客了，又为什么要再花时间写博客呢~~
 
 既然已经花时间搭建博客了，当然要认认真真写点博客咯（迫真！）
+
+Push！Push！Push！
+
+![懂我意思吧](https://i.loli.net/2020/07/14/6lgXZM7pWskIFwP.jpg)

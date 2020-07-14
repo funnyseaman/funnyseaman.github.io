@@ -31,6 +31,7 @@ toc: true
 1. 把图片放在 images 文件夹内，调用 GitHub 仓库内资源
 2. 把图片放在 [SM.MS](https://sm.ms/){:target='\_blank'} 这类图床上，调用外链
 
+---
 
 ## Atom
 
@@ -38,17 +39,24 @@ toc: true
 
 ##### 使用方法
 
-1. 官网下载 Atom
-2.
+![Atom_howToUse](https://i.loli.net/2020/07/14/phHA7UOjCo6RWVI.png)
 
+1. stage
+2. commit
+3. push
+
+push后，过一会儿博客就会自动更新了
+
+---
 
 ## SM.MS
 
 [SM.MS](https://sm.ms/){:target='\_blank'} 是一个免费图床，可以把图片放在 SM.MS 上，通过外链来调用图片。
 
-### 使用方法
+##### 使用方法
 
 ![SM.MS_howToUse](https://i.loli.net/2020/07/14/96U5eKDEY3Vro7t.png)
+
 1. 注册 SM.MS 账号（不注册也可以使用，但是存入的图片不会被归属于用户）
 2. 上传图片
 3. 获取外链
