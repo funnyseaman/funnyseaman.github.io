@@ -9,11 +9,11 @@ comments: true
 toc: true
 ---
 
-## 建立个人博客
-
 可以参考致谢中的两个方案，或者直接 fork [我的仓库](https://github.com/funnyseaman/funnyseaman.github.io){:target='\_blank'}
 
 简单修改 \_config.yml 文件后，就拥有了属于自己的博客了
+
+总之，我们先要有一个自己的站点，才能继续后面的操作
 
 ---
 
