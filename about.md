@@ -42,17 +42,17 @@ permalink: /about/
 
 
 ## 致谢
-* [LOFFER使用基础教程](https://fromendworld.github.io/LOFFER/document/#%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) - 首先，感谢FromEndWorld提供的LOFFER模板，本站在此基础上进行的二次开发
-* [lemonchann's blog](https://lemonchann.github.io/create_blog_with_github_pages/) - 其次，感谢lemonchann编写的个人博客搭建教程，我深受启发
+* [LOFFER使用基础教程](https://fromendworld.github.io/LOFFER/document/#%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B){:target='\_blank'} - 首先，感谢FromEndWorld提供的LOFFER模板，本站在此基础上进行的二次开发
+* [lemonchann's blog](https://lemonchann.github.io/create_blog_with_github_pages/){:target='\_blank'} - 其次，感谢lemonchann编写的个人博客搭建教程，我深受启发
 
 
 ## 版权声明
 
-除额外声明外，本站博文均使用[CC BY-SA 4.0 International License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/)授权。
+除额外声明外，本站博文均使用[CC BY-SA 4.0 International License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/){:target='\_blank'}授权。
 
 
 ## 帮助憨憨
 
-如果觉得博客内容有帮助的话，希望能给[我的仓库](https://github.com/funnyseaman/funnyseaman.github.io)点一个☆！
+如果觉得博客内容有帮助的话，希望能给[我的仓库](https://github.com/funnyseaman/funnyseaman.github.io){:target='\_blank'}点一个☆！
 
 ![仓库星星](https://i.loli.net/2020/07/14/NTHGRdbeMa74gA3.png)
