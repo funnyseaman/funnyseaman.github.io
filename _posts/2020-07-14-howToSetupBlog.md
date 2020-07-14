@@ -37,6 +37,11 @@ toc: true
 
 [Atom](https://atom.io/){:target='\_blank'} 是 github 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持 CSS，HTML，JavaScript 等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。
 
+##### 下载方法
+1. [官网下载](https://atom.io/){:target='\_blank'}
+2. [Github下载](https://github.com/atom/atom/releases/tag/v1.48.0){:target='\_blank'}
+3. [我的百度链接](https://pan.baidu.com/s/1piWqfpDpJky1mGKmCpF-HA){:target='\_blank'}（提取码：0pdo）
+
 ##### 使用方法
 
 ![Atom_howToUse](https://i.loli.net/2020/07/14/phHA7UOjCo6RWVI.png)
