@@ -77,10 +77,10 @@ disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
+  clientID: 39e524bc28b5b5e9a204
+  clientSecret: 13359778b1abd8236ac5e6b44e27c907a0872546
+  repo: funnyseaman.github.io
+  owner: funnyseaman
 
 # 输入Google Analytics web tracking code
 google_analytics:
