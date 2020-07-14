@@ -23,20 +23,34 @@ toc: true
 编辑.md文件有两种方式
 
 1. 直接在 github 仓库上操作，简单易懂
-2. 使用 Atom 操作，下面会再介绍
+2. 使用 [Atom](https://atom.io/){:target='\_blank'} 操作，下面会再介绍
 
 关于博客内的图片，也有两种方法调用
 
 1. 把图片放在 images 文件夹内，调用 GitHub 仓库内资源
-
 2. 把图片放在 [SM.MS](https://sm.ms/) 这类图床上，调用外链
 
 
 ## Atom
 
-Atom
+[Atom](https://atom.io/) 是 github 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持 CSS，HTML，JavaScript 等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。
+
+#### 使用方法
+
+1. 官网下载 Atom
+2.
 
 
 ## SM.MS
 
-SM.MS
+[SM.MS](https://sm.ms/) 是一个免费图床，可以把图片放在 SM.MS 上，通过外链来调用图片。
+
+### 使用方法
+
+![SM.MS_howToUse](https://i.loli.net/2020/07/14/96U5eKDEY3Vro7t.png)
+
+1. 注册 SM.MS 账号（不注册也可以使用，但是存入的图片不会被归属于用户）
+2. 上传图片
+3. 获取外链
+4. 将外链插入博客中，方法为
+``` ![SM.MS_howToUse](https://i.loli.net/2020/07/14/96U5eKDEY3Vro7t.png) ```
