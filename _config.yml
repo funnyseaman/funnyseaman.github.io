@@ -83,7 +83,7 @@ gitalk:
   owner: funnyseaman
 
 # 输入Google Analytics web tracking code
-google_analytics:
+google_analytics: UA-172646971-1
 
 
 
