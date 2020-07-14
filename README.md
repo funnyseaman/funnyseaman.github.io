@@ -47,6 +47,6 @@
 
 ## 帮助憨憨
 
-如果觉得博客内容有帮助的话，希望能给[我的仓库](https://github.com/funnyseaman/funnyseaman.github.io){:target='\_blank'}点一个☆！
+如果觉得博客内容有帮助的话，希望能给[我的仓库](https://github.com/funnyseaman/funnyseaman.github.io)点一个☆！
 
 ![仓库星星](https://i.loli.net/2020/07/14/NTHGRdbeMa74gA3.png)
